@@ -21,7 +21,7 @@ Speech recognition is the technology that converts spoken words into written tex
 
 ## Dataset
 
-The Fleurs dataset is a multilingual speech dataset containing recordings in various languages. It is specifically designed for training and evaluating multilingual speech recognition systems. The dataset is available at [Fleurs Dataset](https://example.com/fleurs-dataset).
+The Fleurs dataset is a multilingual speech dataset containing recordings in various languages. It is specifically designed for training and evaluating multilingual speech recognition systems. The dataset is available at [Fleurs Dataset](https://huggingface.co/datasets/google/fleurs).
 
 ## Setup
 
