@@ -14,8 +14,6 @@ This project aims to develop a Multilingual Speech Recognition System using the 
 6. [Training](#training)
 7. [Evaluation](#evaluation)
 8. [Results](#results)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Introduction
 
